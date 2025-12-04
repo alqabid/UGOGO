@@ -1,0 +1,8 @@
+{
+  "name": "UGOGO",
+  "description": "The ultimate social event connector. Find events, see who's going, and vibe on Snapchat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
